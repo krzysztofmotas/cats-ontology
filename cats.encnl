@@ -1,0 +1,1390 @@
+Title: 'Ontologia ras kotów'.
+Author: 'Krzysztof Motas'.
+
+
+Part-1: 'Kraje pochodzenia'.
+Australia is a country.
+Burma is a country.
+Canada is a country.
+China is a country.
+Cyprus is a country.
+Egypt is a country.
+France is a country.
+Greece is a country.
+Iran is a country.
+Isle-Of-Man is a country.
+Japan is a country.
+Norway is a country.
+Russia is a country.
+Singapore is a country.
+Somalia is a country.
+Thailand is a country.
+Turkey is a country.
+United-Arab-Emirates is a country.
+United-Kingdom is a country.
+United-States is a country.
+
+
+Part-2: 'Opisy ras'.
+Every hairless-cat is a breed.
+Every rare-breed is a breed.
+Every natural-breed is a breed.
+Every unnatural-breed is a breed.
+
+Abyssinian is natural-breed.
+Abyssinian has-weight-kg greater-or-equal-to 3.
+Abyssinian has-weight-kg lower-or-equal-to 5.
+Abyssinian has-origin that is Egypt.
+Abyssinian has-life-span-years greater-or-equal-to 14.
+Abyssinian has-life-span-years lower-or-equal-to 15.
+Abyssinian has-temperament equal-to 'active'.
+Abyssinian has-temperament equal-to 'energetic'.
+Abyssinian has-temperament equal-to 'independent'.
+Abyssinian has-temperament equal-to 'intelligent'.
+Abyssinian has-temperament equal-to 'gentle'.
+Abyssinian has-lap.
+Abyssinian has-no-short-legs.
+Abyssinian is not a hypoallergenic.
+Abyssinian is very-intelligent.
+Abyssinian is very-energetic.
+Abyssinian is not-very-child-friendly.
+Abyssinian is an outdoor-cat.
+
+Aegean is unnatural-breed.
+Aegean has-weight-kg greater-or-equal-to 3.
+Aegean has-weight-kg lower-or-equal-to 5.
+Aegean has-origin that is Greece.
+Aegean has-life-span-years greater-or-equal-to 9.
+Aegean has-life-span-years lower-or-equal-to 12.
+Aegean has-temperament equal-to 'affectionate'.
+Aegean has-temperament equal-to 'social'.
+Aegean has-temperament equal-to 'intelligent'.
+Aegean has-temperament equal-to 'playful'.
+Aegean has-temperament equal-to 'active'.
+Aegean has-no-short-legs.
+Aegean is not a hypoallergenic.
+Aegean is not-very-intelligent.
+Aegean is not-very-energetic.
+Aegean is child-friendly.
+Aegean is an outdoor-cat.
+
+American-Bobtail is unnatural-breed.
+American-Bobtail has-weight-kg greater-or-equal-to 3.
+American-Bobtail has-weight-kg lower-or-equal-to 7.
+American-Bobtail has-origin that is United-States.
+American-Bobtail has-life-span-years greater-or-equal-to 11.
+American-Bobtail has-life-span-years lower-or-equal-to 15.
+American-Bobtail has-temperament equal-to 'intelligent'.
+American-Bobtail has-temperament equal-to 'interactive'.
+American-Bobtail has-temperament equal-to 'lively'.
+American-Bobtail has-temperament equal-to 'playful'.
+American-Bobtail has-temperament equal-to 'sensitive'.
+American-Bobtail has-lap.
+American-Bobtail has-no-short-legs.
+American-Bobtail is not a hypoallergenic.
+American-Bobtail is very-intelligent.
+American-Bobtail is not-very-energetic.
+American-Bobtail is child-friendly.
+American-Bobtail is an outdoor-cat.
+
+American-Curl is unnatural-breed.
+American-Curl has-weight-kg greater-or-equal-to 2.
+American-Curl has-weight-kg lower-or-equal-to 5.
+American-Curl has-origin that is United-States.
+American-Curl has-life-span-years greater-or-equal-to 12.
+American-Curl has-life-span-years lower-or-equal-to 16.
+American-Curl has-temperament equal-to 'affectionate'.
+American-Curl has-temperament equal-to 'curious'.
+American-Curl has-temperament equal-to 'intelligent'.
+American-Curl has-temperament equal-to 'interactive'.
+American-Curl has-temperament equal-to 'lively'.
+American-Curl has-temperament equal-to 'playful'.
+American-Curl has-temperament equal-to 'social'.
+American-Curl has-lap.
+American-Curl has-no-short-legs.
+American-Curl is not a hypoallergenic.
+American-Curl is not-very-intelligent.
+American-Curl is not-very-energetic.
+American-Curl is child-friendly.
+American-Curl is an outdoor-cat.
+
+American-Shorthair is natural-breed.
+American-Shorthair has-weight-kg greater-or-equal-to 4.
+American-Shorthair has-weight-kg lower-or-equal-to 7.
+American-Shorthair has-origin that is United-States.
+American-Shorthair has-life-span-years greater-or-equal-to 15.
+American-Shorthair has-life-span-years lower-or-equal-to 17.
+American-Shorthair has-temperament equal-to 'active'.
+American-Shorthair has-temperament equal-to 'curious'.
+American-Shorthair has-temperament equal-to 'easy-going'.
+American-Shorthair has-temperament equal-to 'playful'.
+American-Shorthair has-temperament equal-to 'calm'.
+American-Shorthair has-lap.
+American-Shorthair has-no-short-legs.
+American-Shorthair is not a hypoallergenic.
+American-Shorthair is not-very-intelligent.
+American-Shorthair is not-very-energetic.
+American-Shorthair is child-friendly.
+American-Shorthair is an outdoor-cat.
+
+American-Wirehair is unnatural-breed.
+American-Wirehair has-weight-kg greater-or-equal-to 4.
+American-Wirehair has-weight-kg lower-or-equal-to 7.
+American-Wirehair has-origin that is United-States.
+American-Wirehair has-life-span-years greater-or-equal-to 14.
+American-Wirehair has-life-span-years lower-or-equal-to 18.
+American-Wirehair has-temperament equal-to 'affectionate'.
+American-Wirehair has-temperament equal-to 'curious'.
+American-Wirehair has-temperament equal-to 'gentle'.
+American-Wirehair has-temperament equal-to 'intelligent'.
+American-Wirehair has-temperament equal-to 'interactive'.
+American-Wirehair has-temperament equal-to 'lively'.
+American-Wirehair has-temperament equal-to 'loyal'.
+American-Wirehair has-temperament equal-to 'playful'.
+American-Wirehair has-temperament equal-to 'sensible'.
+American-Wirehair has-temperament equal-to 'social'.
+American-Wirehair has-lap.
+American-Wirehair has-no-short-legs.
+American-Wirehair is not a hypoallergenic.
+American-Wirehair is not-very-intelligent.
+American-Wirehair is not-very-energetic.
+American-Wirehair is child-friendly.
+American-Wirehair is an outdoor-cat.
+
+Arabian-Mau is natural-breed.
+Arabian-Mau has-weight-kg greater-or-equal-to 4.
+Arabian-Mau has-weight-kg lower-or-equal-to 7.
+Arabian-Mau has-origin that is United-Arab-Emirates.
+Arabian-Mau has-life-span-years greater-or-equal-to 12.
+Arabian-Mau has-life-span-years lower-or-equal-to 14.
+Arabian-Mau has-temperament equal-to 'affectionate'.
+Arabian-Mau has-temperament equal-to 'agile'.
+Arabian-Mau has-temperament equal-to 'curious'.
+Arabian-Mau has-temperament equal-to 'independent'.
+Arabian-Mau has-temperament equal-to 'playful'.
+Arabian-Mau has-temperament equal-to 'loyal'.
+Arabian-Mau has-no-short-legs.
+Arabian-Mau is not a hypoallergenic.
+Arabian-Mau is not-very-intelligent.
+Arabian-Mau is energetic.
+Arabian-Mau is child-friendly.
+Arabian-Mau is an outdoor-cat.
+
+Australian-Mist is unnatural-breed.
+Australian-Mist has-weight-kg greater-or-equal-to 3.
+Australian-Mist has-weight-kg lower-or-equal-to 7.
+Australian-Mist has-origin that is Australia.
+Australian-Mist has-life-span-years greater-or-equal-to 12.
+Australian-Mist has-life-span-years lower-or-equal-to 16.
+Australian-Mist has-temperament equal-to 'lively'.
+Australian-Mist has-temperament equal-to 'social'.
+Australian-Mist has-temperament equal-to 'fun-loving'.
+Australian-Mist has-temperament equal-to 'relaxed'.
+Australian-Mist has-temperament equal-to 'affectionate'.
+Australian-Mist has-lap.
+Australian-Mist has-no-short-legs.
+Australian-Mist is not a hypoallergenic.
+Australian-Mist is intelligent.
+Australian-Mist is energetic.
+Australian-Mist is child-friendly.
+Australian-Mist is an outdoor-cat.
+
+Balinese is unnatural-breed.
+Balinese has-weight-kg greater-or-equal-to 2.
+Balinese has-weight-kg lower-or-equal-to 5.
+Balinese has-origin that is United-States.
+Balinese has-life-span-years greater-or-equal-to 10.
+Balinese has-life-span-years lower-or-equal-to 15.
+Balinese has-temperament equal-to 'affectionate'.
+Balinese has-temperament equal-to 'intelligent'.
+Balinese has-temperament equal-to 'playful'.
+Balinese has-no-short-legs.
+Balinese is a hypoallergenic.
+Balinese is very-intelligent.
+Balinese is very-energetic.
+Balinese is child-friendly.
+Balinese is an outdoor-cat.
+
+Bambino is a hairless-cat.
+Bambino is unnatural-breed.
+Bambino has-weight-kg greater-or-equal-to 2.
+Bambino has-weight-kg lower-or-equal-to 4.
+Bambino has-origin that is United-States.
+Bambino has-life-span-years greater-or-equal-to 12.
+Bambino has-life-span-years lower-or-equal-to 14.
+Bambino has-temperament equal-to 'affectionate'.
+Bambino has-temperament equal-to 'lively'.
+Bambino has-temperament equal-to 'friendly'.
+Bambino has-temperament equal-to 'intelligent'.
+Bambino has-lap.
+Bambino has-short-legs.
+Bambino is not a hypoallergenic.
+Bambino is very-intelligent.
+Bambino is very-energetic.
+Bambino is child-friendly.
+Bambino is an outdoor-cat.
+
+Bengal is unnatural-breed.
+Bengal has-weight-kg greater-or-equal-to 3.
+Bengal has-weight-kg lower-or-equal-to 7.
+Bengal has-origin that is United-States.
+Bengal has-life-span-years greater-or-equal-to 12.
+Bengal has-life-span-years lower-or-equal-to 15.
+Bengal has-temperament equal-to 'alert'.
+Bengal has-temperament equal-to 'agile'.
+Bengal has-temperament equal-to 'energetic'.
+Bengal has-temperament equal-to 'demanding'.
+Bengal has-temperament equal-to 'intelligent'.
+Bengal has-no-lap.
+Bengal has-no-short-legs.
+Bengal is a hypoallergenic.
+Bengal is very-intelligent.
+Bengal is very-energetic.
+Bengal is child-friendly.
+Bengal is an outdoor-cat.
+
+Birman is unnatural-breed.
+Birman has-weight-kg greater-or-equal-to 3.
+Birman has-weight-kg lower-or-equal-to 7.
+Birman has-origin that is France.
+Birman has-life-span-years greater-or-equal-to 14.
+Birman has-life-span-years lower-or-equal-to 15.
+Birman has-temperament equal-to 'affectionate'.
+Birman has-temperament equal-to 'active'.
+Birman has-temperament equal-to 'gentle'.
+Birman has-temperament equal-to 'social'.
+Birman has-lap.
+Birman has-no-short-legs.
+Birman is not a hypoallergenic.
+Birman is not-very-intelligent.
+Birman is not-very-energetic.
+Birman is child-friendly.
+Birman is an outdoor-cat.
+
+Bombay is unnatural-breed.
+Bombay has-weight-kg greater-or-equal-to 3.
+Bombay has-weight-kg lower-or-equal-to 5.
+Bombay has-origin that is United-States.
+Bombay has-life-span-years greater-or-equal-to 12.
+Bombay has-life-span-years lower-or-equal-to 16.
+Bombay has-temperament equal-to 'affectionate'.
+Bombay has-temperament equal-to 'dependent'.
+Bombay has-temperament equal-to 'gentle'.
+Bombay has-temperament equal-to 'intelligent'.
+Bombay has-temperament equal-to 'playful'.
+Bombay has-lap.
+Bombay has-no-short-legs.
+Bombay is not a hypoallergenic.
+Bombay is very-intelligent.
+Bombay is not-very-energetic.
+Bombay is child-friendly.
+Bombay is an outdoor-cat.
+
+British-Longhair is unnatural-breed.
+British-Longhair has-weight-kg greater-or-equal-to 4.
+British-Longhair has-weight-kg lower-or-equal-to 8.
+British-Longhair has-origin that is United-Kingdom.
+British-Longhair has-life-span-years greater-or-equal-to 12.
+British-Longhair has-life-span-years lower-or-equal-to 14.
+British-Longhair has-temperament equal-to 'affectionate'.
+British-Longhair has-temperament equal-to 'easy-going'.
+British-Longhair has-temperament equal-to 'independent'.
+British-Longhair has-temperament equal-to 'intelligent'.
+British-Longhair has-temperament equal-to 'loyal'.
+British-Longhair has-temperament equal-to 'social'.
+British-Longhair has-no-short-legs.
+British-Longhair is not a hypoallergenic.
+British-Longhair is very-intelligent.
+British-Longhair is energetic.
+British-Longhair is child-friendly.
+British-Longhair is an outdoor-cat.
+
+British-Shorthair is natural-breed.
+British-Shorthair has-weight-kg greater-or-equal-to 5.
+British-Shorthair has-weight-kg lower-or-equal-to 9.
+British-Shorthair has-origin that is United-Kingdom.
+British-Shorthair has-life-span-years greater-or-equal-to 12.
+British-Shorthair has-life-span-years lower-or-equal-to 17.
+British-Shorthair has-temperament equal-to 'affectionate'.
+British-Shorthair has-temperament equal-to 'easy-going'.
+British-Shorthair has-temperament equal-to 'gentle'.
+British-Shorthair has-temperament equal-to 'loyal'.
+British-Shorthair has-temperament equal-to 'patient'.
+British-Shorthair has-temperament equal-to 'calm'.
+British-Shorthair has-lap.
+British-Shorthair has-no-short-legs.
+British-Shorthair is not a hypoallergenic.
+British-Shorthair is not-very-intelligent.
+British-Shorthair is not-very-energetic.
+British-Shorthair is child-friendly.
+British-Shorthair is an outdoor-cat.
+
+Burmese is unnatural-breed.
+Burmese has-weight-kg greater-or-equal-to 3.
+Burmese has-weight-kg lower-or-equal-to 5.
+Burmese has-origin that is Burma.
+Burmese has-life-span-years greater-or-equal-to 15.
+Burmese has-life-span-years lower-or-equal-to 16.
+Burmese has-temperament equal-to 'curious'.
+Burmese has-temperament equal-to 'intelligent'.
+Burmese has-temperament equal-to 'gentle'.
+Burmese has-temperament equal-to 'social'.
+Burmese has-temperament equal-to 'interactive'.
+Burmese has-temperament equal-to 'playful'.
+Burmese has-temperament equal-to 'lively'.
+Burmese has-lap.
+Burmese has-no-short-legs.
+Burmese is a hypoallergenic.
+Burmese is very-intelligent.
+Burmese is energetic.
+Burmese is child-friendly.
+Burmese is an outdoor-cat.
+
+Burmilla is unnatural-breed.
+Burmilla has-weight-kg greater-or-equal-to 3.
+Burmilla has-weight-kg lower-or-equal-to 6.
+Burmilla has-origin that is United-Kingdom.
+Burmilla has-life-span-years greater-or-equal-to 10.
+Burmilla has-life-span-years lower-or-equal-to 15.
+Burmilla has-temperament equal-to 'easy-going'.
+Burmilla has-temperament equal-to 'friendly'.
+Burmilla has-temperament equal-to 'intelligent'.
+Burmilla has-temperament equal-to 'lively'.
+Burmilla has-temperament equal-to 'playful'.
+Burmilla has-temperament equal-to 'social'.
+Burmilla has-lap.
+Burmilla has-no-short-legs.
+Burmilla is not a hypoallergenic.
+Burmilla is not-very-intelligent.
+Burmilla is not-very-energetic.
+Burmilla is child-friendly.
+Burmilla is an outdoor-cat.
+
+California-Spangled is unnatural-breed.
+California-Spangled has-weight-kg greater-or-equal-to 5.
+California-Spangled has-weight-kg lower-or-equal-to 7.
+California-Spangled has-origin that is United-States.
+California-Spangled has-life-span-years greater-or-equal-to 10.
+California-Spangled has-life-span-years lower-or-equal-to 14.
+California-Spangled has-temperament equal-to 'affectionate'.
+California-Spangled has-temperament equal-to 'curious'.
+California-Spangled has-temperament equal-to 'intelligent'.
+California-Spangled has-temperament equal-to 'loyal'.
+California-Spangled has-temperament equal-to 'social'.
+California-Spangled has-no-short-legs.
+California-Spangled is not a hypoallergenic.
+California-Spangled is very-intelligent.
+California-Spangled is very-energetic.
+California-Spangled is child-friendly.
+California-Spangled is an outdoor-cat.
+
+Chantilly-Tiffany is unnatural-breed.
+Chantilly-Tiffany has-weight-kg greater-or-equal-to 3.
+Chantilly-Tiffany has-weight-kg lower-or-equal-to 5.
+Chantilly-Tiffany has-origin that is United-States.
+Chantilly-Tiffany has-life-span-years greater-or-equal-to 14.
+Chantilly-Tiffany has-life-span-years lower-or-equal-to 16.
+Chantilly-Tiffany has-temperament equal-to 'affectionate'.
+Chantilly-Tiffany has-temperament equal-to 'demanding'.
+Chantilly-Tiffany has-temperament equal-to 'interactive'.
+Chantilly-Tiffany has-temperament equal-to 'loyal'.
+Chantilly-Tiffany has-lap.
+Chantilly-Tiffany has-no-short-legs.
+Chantilly-Tiffany is not a hypoallergenic.
+Chantilly-Tiffany is very-intelligent.
+Chantilly-Tiffany is energetic.
+Chantilly-Tiffany is child-friendly.
+Chantilly-Tiffany is an outdoor-cat.
+
+Chartreux is unnatural-breed.
+Chartreux has-weight-kg greater-or-equal-to 3.
+Chartreux has-weight-kg lower-or-equal-to 7.
+Chartreux has-origin that is France.
+Chartreux has-life-span-years greater-or-equal-to 12.
+Chartreux has-life-span-years lower-or-equal-to 15.
+Chartreux has-temperament equal-to 'affectionate'.
+Chartreux has-temperament equal-to 'loyal'.
+Chartreux has-temperament equal-to 'intelligent'.
+Chartreux has-temperament equal-to 'social'.
+Chartreux has-temperament equal-to 'lively'.
+Chartreux has-temperament equal-to 'playful'.
+Chartreux has-lap.
+Chartreux has-no-short-legs.
+Chartreux is a hypoallergenic.
+Chartreux is intelligent.
+Chartreux is not-very-energetic.
+Chartreux is child-friendly.
+Chartreux is an outdoor-cat.
+
+Chausie is unnatural-breed.
+Chausie has-weight-kg greater-or-equal-to 3.
+Chausie has-weight-kg lower-or-equal-to 7.
+Chausie has-origin that is Egypt.
+Chausie has-life-span-years greater-or-equal-to 12.
+Chausie has-life-span-years lower-or-equal-to 14.
+Chausie has-temperament equal-to 'affectionate'.
+Chausie has-temperament equal-to 'intelligent'.
+Chausie has-temperament equal-to 'playful'.
+Chausie has-temperament equal-to 'social'.
+Chausie has-no-short-legs.
+Chausie is not a hypoallergenic.
+Chausie is very-intelligent.
+Chausie is energetic.
+Chausie is child-friendly.
+Chausie is an outdoor-cat.
+
+Cheetoh is unnatural-breed.
+Cheetoh has-weight-kg greater-or-equal-to 4.
+Cheetoh has-weight-kg lower-or-equal-to 7.
+Cheetoh has-origin that is United-States.
+Cheetoh has-life-span-years greater-or-equal-to 12.
+Cheetoh has-life-span-years lower-or-equal-to 14.
+Cheetoh has-temperament equal-to 'affectionate'.
+Cheetoh has-temperament equal-to 'gentle'.
+Cheetoh has-temperament equal-to 'intelligent'.
+Cheetoh has-temperament equal-to 'social'.
+Cheetoh has-no-short-legs.
+Cheetoh is not a hypoallergenic.
+Cheetoh is very-intelligent.
+Cheetoh is energetic.
+Cheetoh is child-friendly.
+Cheetoh is an outdoor-cat.
+
+Colorpoint-Shorthair is unnatural-breed.
+Colorpoint-Shorthair has-weight-kg greater-or-equal-to 2.
+Colorpoint-Shorthair has-weight-kg lower-or-equal-to 5.
+Colorpoint-Shorthair has-origin that is United-States.
+Colorpoint-Shorthair has-life-span-years greater-or-equal-to 12.
+Colorpoint-Shorthair has-life-span-years lower-or-equal-to 16.
+Colorpoint-Shorthair has-temperament equal-to 'affectionate'.
+Colorpoint-Shorthair has-temperament equal-to 'intelligent'.
+Colorpoint-Shorthair has-temperament equal-to 'playful'.
+Colorpoint-Shorthair has-temperament equal-to 'social'.
+Colorpoint-Shorthair has-lap.
+Colorpoint-Shorthair has-no-short-legs.
+Colorpoint-Shorthair is not a hypoallergenic.
+Colorpoint-Shorthair is very-intelligent.
+Colorpoint-Shorthair is energetic.
+Colorpoint-Shorthair is child-friendly.
+Colorpoint-Shorthair is an outdoor-cat.
+
+Cornish-Rex is unnatural-breed.
+Cornish-Rex has-weight-kg greater-or-equal-to 2.
+Cornish-Rex has-weight-kg lower-or-equal-to 4.
+Cornish-Rex has-origin that is United-Kingdom.
+Cornish-Rex has-life-span-years greater-or-equal-to 11.
+Cornish-Rex has-life-span-years lower-or-equal-to 14.
+Cornish-Rex has-temperament equal-to 'affectionate'.
+Cornish-Rex has-temperament equal-to 'intelligent'.
+Cornish-Rex has-temperament equal-to 'active'.
+Cornish-Rex has-temperament equal-to 'curious'.
+Cornish-Rex has-temperament equal-to 'playful'.
+Cornish-Rex has-lap.
+Cornish-Rex has-no-short-legs.
+Cornish-Rex is a hypoallergenic.
+Cornish-Rex is very-intelligent.
+Cornish-Rex is very-energetic.
+Cornish-Rex is child-friendly.
+Cornish-Rex is an outdoor-cat.
+
+Cymric is unnatural-breed.
+Cymric has-weight-kg greater-or-equal-to 4.
+Cymric has-weight-kg lower-or-equal-to 6.
+Cymric has-origin that is Canada.
+Cymric has-life-span-years greater-or-equal-to 8.
+Cymric has-life-span-years lower-or-equal-to 14.
+Cymric has-temperament equal-to 'gentle'.
+Cymric has-temperament equal-to 'loyal'.
+Cymric has-temperament equal-to 'intelligent'.
+Cymric has-temperament equal-to 'playful'.
+Cymric has-lap.
+Cymric has-no-short-legs.
+Cymric is not a hypoallergenic.
+Cymric is very-intelligent.
+Cymric is very-energetic.
+Cymric is child-friendly.
+Cymric is an outdoor-cat.
+
+Cyprus is natural-breed.
+Cyprus has-weight-kg greater-or-equal-to 4.
+Cyprus has-weight-kg lower-or-equal-to 7.
+Cyprus has-origin that is Cyprus.
+Cyprus has-life-span-years greater-or-equal-to 12.
+Cyprus has-life-span-years lower-or-equal-to 15.
+Cyprus has-temperament equal-to 'affectionate'.
+Cyprus has-temperament equal-to 'social'.
+Cyprus has-lap.
+Cyprus has-no-short-legs.
+Cyprus is not a hypoallergenic.
+Cyprus is not-very-intelligent.
+Cyprus is energetic.
+Cyprus is child-friendly.
+Cyprus is an outdoor-cat.
+
+Devon-Rex is unnatural-breed.
+Devon-Rex has-weight-kg greater-or-equal-to 2.
+Devon-Rex has-weight-kg lower-or-equal-to 5.
+Devon-Rex has-origin that is United-Kingdom.
+Devon-Rex has-life-span-years greater-or-equal-to 10.
+Devon-Rex has-life-span-years lower-or-equal-to 15.
+Devon-Rex has-temperament equal-to 'highly-interactive'.
+Devon-Rex has-temperament equal-to 'mischievous'.
+Devon-Rex has-temperament equal-to 'loyal'.
+Devon-Rex has-temperament equal-to 'social'.
+Devon-Rex has-temperament equal-to 'playful'.
+Devon-Rex has-lap.
+Devon-Rex has-no-short-legs.
+Devon-Rex is a hypoallergenic.
+Devon-Rex is very-intelligent.
+Devon-Rex is very-energetic.
+Devon-Rex is child-friendly.
+Devon-Rex is an outdoor-cat.
+
+Donskoy is a hairless-cat.
+Donskoy is unnatural-breed.
+Donskoy has-weight-kg greater-or-equal-to 5.
+Donskoy has-weight-kg lower-or-equal-to 6.
+Donskoy is a rare-breed.
+Donskoy has-origin that is Russia.
+Donskoy has-life-span-years greater-or-equal-to 12.
+Donskoy has-life-span-years lower-or-equal-to 15.
+Donskoy has-temperament equal-to 'playful'.
+Donskoy has-temperament equal-to 'affectionate'.
+Donskoy has-temperament equal-to 'loyal'.
+Donskoy has-temperament equal-to 'social'.
+Donskoy has-no-short-legs.
+Donskoy is not a hypoallergenic.
+Donskoy is not-very-intelligent.
+Donskoy is energetic.
+Donskoy is not-very-child-friendly.
+Donskoy is an outdoor-cat.
+
+Dragon-Li is natural-breed.
+Dragon-Li has-weight-kg greater-or-equal-to 4.
+Dragon-Li has-weight-kg lower-or-equal-to 6.
+Dragon-Li has-origin that is China.
+Dragon-Li has-life-span-years greater-or-equal-to 12.
+Dragon-Li has-life-span-years lower-or-equal-to 15.
+Dragon-Li has-temperament equal-to 'intelligent'.
+Dragon-Li has-temperament equal-to 'friendly'.
+Dragon-Li has-temperament equal-to 'gentle'.
+Dragon-Li has-temperament equal-to 'loving'.
+Dragon-Li has-temperament equal-to 'loyal'.
+Dragon-Li has-no-short-legs.
+Dragon-Li is not a hypoallergenic.
+Dragon-Li is not-very-intelligent.
+Dragon-Li is not-very-energetic.
+Dragon-Li is not-very-child-friendly.
+Dragon-Li is an indoor-cat.
+
+Egyptian-Mau is natural-breed.
+Egyptian-Mau has-weight-kg greater-or-equal-to 3.
+Egyptian-Mau has-weight-kg lower-or-equal-to 6.
+Egyptian-Mau has-origin that is Egypt.
+Egyptian-Mau has-life-span-years greater-or-equal-to 18.
+Egyptian-Mau has-life-span-years lower-or-equal-to 20.
+Egyptian-Mau has-temperament equal-to 'agile'.
+Egyptian-Mau has-temperament equal-to 'dependent'.
+Egyptian-Mau has-temperament equal-to 'gentle'.
+Egyptian-Mau has-temperament equal-to 'intelligent'.
+Egyptian-Mau has-temperament equal-to 'lively'.
+Egyptian-Mau has-temperament equal-to 'loyal'.
+Egyptian-Mau has-temperament equal-to 'playful'.
+Egyptian-Mau has-lap.
+Egyptian-Mau has-no-short-legs.
+Egyptian-Mau is not a hypoallergenic.
+Egyptian-Mau is intelligent.
+Egyptian-Mau is very-energetic.
+Egyptian-Mau is not-very-child-friendly.
+Egyptian-Mau is an outdoor-cat.
+
+European-Burmese is unnatural-breed.
+European-Burmese has-weight-kg greater-or-equal-to 3.
+European-Burmese has-weight-kg lower-or-equal-to 6.
+European-Burmese has-origin that is Burma.
+European-Burmese has-life-span-years greater-or-equal-to 10.
+European-Burmese has-life-span-years lower-or-equal-to 15.
+European-Burmese has-temperament equal-to 'sweet'.
+European-Burmese has-temperament equal-to 'affectionate'.
+European-Burmese has-temperament equal-to 'loyal'.
+European-Burmese has-lap.
+European-Burmese has-no-short-legs.
+European-Burmese is not a hypoallergenic.
+European-Burmese is very-intelligent.
+European-Burmese is energetic.
+European-Burmese is child-friendly.
+European-Burmese is an outdoor-cat.
+
+Exotic-Shorthair is unnatural-breed.
+Exotic-Shorthair has-weight-kg greater-or-equal-to 3.
+Exotic-Shorthair has-weight-kg lower-or-equal-to 6.
+Exotic-Shorthair has-origin that is United-States.
+Exotic-Shorthair has-life-span-years greater-or-equal-to 12.
+Exotic-Shorthair has-life-span-years lower-or-equal-to 15.
+Exotic-Shorthair has-temperament equal-to 'affectionate'.
+Exotic-Shorthair has-temperament equal-to 'sweet'.
+Exotic-Shorthair has-temperament equal-to 'loyal'.
+Exotic-Shorthair has-temperament equal-to 'quiet'.
+Exotic-Shorthair has-temperament equal-to 'peaceful'.
+Exotic-Shorthair has-lap.
+Exotic-Shorthair has-no-short-legs.
+Exotic-Shorthair is not a hypoallergenic.
+Exotic-Shorthair is not-very-intelligent.
+Exotic-Shorthair is not-very-energetic.
+Exotic-Shorthair is not-very-child-friendly.
+Exotic-Shorthair is an outdoor-cat.
+
+Havana-Brown is unnatural-breed.
+Havana-Brown has-weight-kg greater-or-equal-to 3.
+Havana-Brown has-weight-kg lower-or-equal-to 5.
+Havana-Brown has-origin that is United-Kingdom.
+Havana-Brown has-life-span-years greater-or-equal-to 10.
+Havana-Brown has-life-span-years lower-or-equal-to 15.
+Havana-Brown has-temperament equal-to 'affectionate'.
+Havana-Brown has-temperament equal-to 'curious'.
+Havana-Brown has-temperament equal-to 'demanding'.
+Havana-Brown has-temperament equal-to 'friendly'.
+Havana-Brown has-temperament equal-to 'intelligent'.
+Havana-Brown has-temperament equal-to 'playful'.
+Havana-Brown has-lap.
+Havana-Brown has-no-short-legs.
+Havana-Brown is not a hypoallergenic.
+Havana-Brown is very-intelligent.
+Havana-Brown is not-very-energetic.
+Havana-Brown is child-friendly.
+Havana-Brown is an outdoor-cat.
+
+Himalayan is unnatural-breed.
+Himalayan has-weight-kg greater-or-equal-to 3.
+Himalayan has-weight-kg lower-or-equal-to 6.
+Himalayan has-origin that is United-States.
+Himalayan has-life-span-years greater-or-equal-to 9.
+Himalayan has-life-span-years lower-or-equal-to 15.
+Himalayan has-temperament equal-to 'dependent'.
+Himalayan has-temperament equal-to 'gentle'.
+Himalayan has-temperament equal-to 'intelligent'.
+Himalayan has-temperament equal-to 'quiet'.
+Himalayan has-temperament equal-to 'social'.
+Himalayan has-lap.
+Himalayan has-no-short-legs.
+Himalayan is not a hypoallergenic.
+Himalayan is not-very-intelligent.
+Himalayan is not-energetic.
+Himalayan is not-very-child-friendly.
+Himalayan is an outdoor-cat.
+
+Japanese-Bobtail is natural-breed.
+Japanese-Bobtail has-weight-kg greater-or-equal-to 2.
+Japanese-Bobtail has-weight-kg lower-or-equal-to 5.
+Japanese-Bobtail has-origin that is Japan.
+Japanese-Bobtail has-life-span-years greater-or-equal-to 14.
+Japanese-Bobtail has-life-span-years lower-or-equal-to 16.
+Japanese-Bobtail has-temperament equal-to 'active'.
+Japanese-Bobtail has-temperament equal-to 'agile'.
+Japanese-Bobtail has-temperament equal-to 'clever'.
+Japanese-Bobtail has-temperament equal-to 'easy-going'.
+Japanese-Bobtail has-temperament equal-to 'intelligent'.
+Japanese-Bobtail has-temperament equal-to 'lively'.
+Japanese-Bobtail has-temperament equal-to 'loyal'.
+Japanese-Bobtail has-temperament equal-to 'playful'.
+Japanese-Bobtail has-temperament equal-to 'social'.
+Japanese-Bobtail has-lap.
+Japanese-Bobtail has-no-short-legs.
+Japanese-Bobtail is not a hypoallergenic.
+Japanese-Bobtail is very-intelligent.
+Japanese-Bobtail is very-energetic.
+Japanese-Bobtail is child-friendly.
+Japanese-Bobtail is an outdoor-cat.
+
+Javanese is unnatural-breed.
+Javanese has-weight-kg greater-or-equal-to 2.
+Javanese has-weight-kg lower-or-equal-to 5.
+Javanese has-origin that is United-States.
+Javanese has-life-span-years greater-or-equal-to 10.
+Javanese has-life-span-years lower-or-equal-to 12.
+Javanese has-temperament equal-to 'active'.
+Javanese has-temperament equal-to 'devoted'.
+Javanese has-temperament equal-to 'intelligent'.
+Javanese has-temperament equal-to 'playful'.
+Javanese has-no-short-legs.
+Javanese is a hypoallergenic.
+Javanese is very-intelligent.
+Javanese is very-energetic.
+Javanese is child-friendly.
+Javanese is an outdoor-cat.
+
+Khao-Manee is unnatural-breed.
+Khao-Manee has-weight-kg greater-or-equal-to 4.
+Khao-Manee has-weight-kg lower-or-equal-to 6.
+Khao-Manee has-origin that is Thailand.
+Khao-Manee has-life-span-years greater-or-equal-to 10.
+Khao-Manee has-life-span-years lower-or-equal-to 12.
+Khao-Manee has-temperament equal-to 'calm'.
+Khao-Manee has-temperament equal-to 'relaxed'.
+Khao-Manee has-temperament equal-to 'talkative'.
+Khao-Manee has-temperament equal-to 'playful'.
+Khao-Manee has-temperament equal-to 'warm'.
+Khao-Manee has-lap.
+Khao-Manee has-no-short-legs.
+Khao-Manee is not a hypoallergenic.
+Khao-Manee is intelligent.
+Khao-Manee is not-very-energetic.
+Khao-Manee is not-very-child-friendly.
+Khao-Manee is an outdoor-cat.
+
+Korat is unnatural-breed.
+Korat has-weight-kg greater-or-equal-to 3.
+Korat has-weight-kg lower-or-equal-to 5.
+Korat is a rare-breed.
+Korat has-origin that is Thailand.
+Korat has-life-span-years greater-or-equal-to 10.
+Korat has-life-span-years lower-or-equal-to 15.
+Korat has-temperament equal-to 'active'.
+Korat has-temperament equal-to 'loyal'.
+Korat has-temperament equal-to 'highly-intelligent'.
+Korat has-temperament equal-to 'expressive'.
+Korat has-temperament equal-to 'trainable'.
+Korat has-no-short-legs.
+Korat is not a hypoallergenic.
+Korat is very-intelligent.
+Korat is not-very-energetic.
+Korat is child-friendly.
+Korat is an outdoor-cat.
+
+Kurilian is natural-breed.
+Kurilian has-weight-kg greater-or-equal-to 4.
+Kurilian has-weight-kg lower-or-equal-to 7.
+Kurilian has-origin that is Russia.
+Kurilian has-life-span-years greater-or-equal-to 15.
+Kurilian has-life-span-years lower-or-equal-to 20.
+Kurilian has-temperament equal-to 'independent'.
+Kurilian has-temperament equal-to 'highly-intelligent'.
+Kurilian has-temperament equal-to 'clever'.
+Kurilian has-temperament equal-to 'inquisitive'.
+Kurilian has-temperament equal-to 'sociable'.
+Kurilian has-temperament equal-to 'playful'.
+Kurilian has-temperament equal-to 'trainable'.
+Kurilian has-no-short-legs.
+Kurilian is not a hypoallergenic.
+Kurilian is very-intelligent.
+Kurilian is very-energetic.
+Kurilian is very-child-friendly.
+Kurilian is an outdoor-cat.
+
+Laperm is unnatural-breed.
+Laperm has-weight-kg greater-or-equal-to 3.
+Laperm has-weight-kg lower-or-equal-to 5.
+Laperm has-origin that is Thailand.
+Laperm has-life-span-years greater-or-equal-to 10.
+Laperm has-life-span-years lower-or-equal-to 15.
+Laperm has-temperament equal-to 'affectionate'.
+Laperm has-temperament equal-to 'friendly'.
+Laperm has-temperament equal-to 'gentle'.
+Laperm has-temperament equal-to 'intelligent'.
+Laperm has-temperament equal-to 'playful'.
+Laperm has-temperament equal-to 'quiet'.
+Laperm has-lap.
+Laperm has-no-short-legs.
+Laperm is a hypoallergenic.
+Laperm is very-intelligent.
+Laperm is energetic.
+Laperm is child-friendly.
+Laperm is an outdoor-cat.
+
+Maine-Coon is natural-breed.
+Maine-Coon has-weight-kg greater-or-equal-to 5.
+Maine-Coon has-weight-kg lower-or-equal-to 8.
+Maine-Coon has-origin that is United-States.
+Maine-Coon has-life-span-years greater-or-equal-to 12.
+Maine-Coon has-life-span-years lower-or-equal-to 15.
+Maine-Coon has-temperament equal-to 'adaptable'.
+Maine-Coon has-temperament equal-to 'intelligent'.
+Maine-Coon has-temperament equal-to 'loving'.
+Maine-Coon has-temperament equal-to 'gentle'.
+Maine-Coon has-temperament equal-to 'independent'.
+Maine-Coon has-lap.
+Maine-Coon has-no-short-legs.
+Maine-Coon is not a hypoallergenic.
+Maine-Coon is very-intelligent.
+Maine-Coon is not-very-energetic.
+Maine-Coon is child-friendly.
+Maine-Coon is an outdoor-cat.
+
+Malayan is unnatural-breed.
+Malayan has-weight-kg greater-or-equal-to 3.
+Malayan has-weight-kg lower-or-equal-to 6.
+Malayan has-origin that is United-Kingdom.
+Malayan has-life-span-years greater-or-equal-to 12.
+Malayan has-life-span-years lower-or-equal-to 18.
+Malayan has-temperament equal-to 'affectionate'.
+Malayan has-temperament equal-to 'interactive'.
+Malayan has-temperament equal-to 'playful'.
+Malayan has-temperament equal-to 'social'.
+Malayan has-no-short-legs.
+Malayan is not a hypoallergenic.
+Malayan is not-very-intelligent.
+Malayan is very-energetic.
+Malayan is child-friendly.
+Malayan is an outdoor-cat.
+
+Manx is natural-breed.
+Manx has-weight-kg greater-or-equal-to 3.
+Manx has-weight-kg lower-or-equal-to 6.
+Manx has-origin that is Isle-Of-Man.
+Manx has-life-span-years greater-or-equal-to 12.
+Manx has-life-span-years lower-or-equal-to 14.
+Manx has-temperament equal-to 'easy-going'.
+Manx has-temperament equal-to 'intelligent'.
+Manx has-temperament equal-to 'loyal'.
+Manx has-temperament equal-to 'playful'.
+Manx has-temperament equal-to 'social'.
+Manx has-lap.
+Manx has-no-short-legs.
+Manx is not a hypoallergenic.
+Manx is very-intelligent.
+Manx is very-energetic.
+Manx is child-friendly.
+Manx is an outdoor-cat.
+
+Munchkin is unnatural-breed.
+Munchkin has-weight-kg greater-or-equal-to 2.
+Munchkin has-weight-kg lower-or-equal-to 4.
+Munchkin has-origin that is United-States.
+Munchkin has-life-span-years greater-or-equal-to 10.
+Munchkin has-life-span-years lower-or-equal-to 15.
+Munchkin has-temperament equal-to 'agile'.
+Munchkin has-temperament equal-to 'easy-going'.
+Munchkin has-temperament equal-to 'intelligent'.
+Munchkin has-temperament equal-to 'playful'.
+Munchkin has-lap.
+Munchkin has-short-legs.
+Munchkin is not a hypoallergenic.
+Munchkin is very-intelligent.
+Munchkin is energetic.
+Munchkin is child-friendly.
+Munchkin is an outdoor-cat.
+
+Nebelung is unnatural-breed.
+Nebelung has-weight-kg greater-or-equal-to 3.
+Nebelung has-weight-kg lower-or-equal-to 5.
+Nebelung is a rare-breed.
+Nebelung has-origin that is United-States.
+Nebelung has-life-span-years greater-or-equal-to 11.
+Nebelung has-life-span-years lower-or-equal-to 16.
+Nebelung has-temperament equal-to 'gentle'.
+Nebelung has-temperament equal-to 'quiet'.
+Nebelung has-temperament equal-to 'shy'.
+Nebelung has-temperament equal-to 'playful'.
+Nebelung has-lap.
+Nebelung has-no-short-legs.
+Nebelung is not a hypoallergenic.
+Nebelung is very-intelligent.
+Nebelung is not-very-energetic.
+Nebelung is child-friendly.
+Nebelung is an outdoor-cat.
+
+Norwegian-Forest-Cat is natural-breed.
+Norwegian-Forest-Cat has-weight-kg greater-or-equal-to 4.
+Norwegian-Forest-Cat has-weight-kg lower-or-equal-to 7.
+Norwegian-Forest-Cat has-origin that is Norway.
+Norwegian-Forest-Cat has-life-span-years greater-or-equal-to 12.
+Norwegian-Forest-Cat has-life-span-years lower-or-equal-to 16.
+Norwegian-Forest-Cat has-temperament equal-to 'sweet'.
+Norwegian-Forest-Cat has-temperament equal-to 'active'.
+Norwegian-Forest-Cat has-temperament equal-to 'intelligent'.
+Norwegian-Forest-Cat has-temperament equal-to 'social'.
+Norwegian-Forest-Cat has-temperament equal-to 'playful'.
+Norwegian-Forest-Cat has-temperament equal-to 'lively'.
+Norwegian-Forest-Cat has-temperament equal-to 'curious'.
+Norwegian-Forest-Cat has-no-short-legs.
+Norwegian-Forest-Cat is not a hypoallergenic.
+Norwegian-Forest-Cat is intelligent.
+Norwegian-Forest-Cat is not-very-energetic.
+Norwegian-Forest-Cat is child-friendly.
+Norwegian-Forest-Cat is an outdoor-cat.
+
+Ocicat is unnatural-breed.
+Ocicat has-weight-kg greater-or-equal-to 3.
+Ocicat has-weight-kg lower-or-equal-to 7.
+Ocicat has-origin that is United-States.
+Ocicat has-life-span-years greater-or-equal-to 12.
+Ocicat has-life-span-years lower-or-equal-to 14.
+Ocicat has-temperament equal-to 'active'.
+Ocicat has-temperament equal-to 'agile'.
+Ocicat has-temperament equal-to 'curious'.
+Ocicat has-temperament equal-to 'demanding'.
+Ocicat has-temperament equal-to 'friendly'.
+Ocicat has-temperament equal-to 'gentle'.
+Ocicat has-temperament equal-to 'lively'.
+Ocicat has-temperament equal-to 'playful'.
+Ocicat has-temperament equal-to 'social'.
+Ocicat has-no-short-legs.
+Ocicat is a hypoallergenic.
+Ocicat is very-intelligent.
+Ocicat is very-energetic.
+Ocicat is child-friendly.
+Ocicat is an outdoor-cat.
+
+Oriental is unnatural-breed.
+Oriental has-weight-kg greater-or-equal-to 2.
+Oriental has-weight-kg lower-or-equal-to 5.
+Oriental has-origin that is United-States.
+Oriental has-life-span-years greater-or-equal-to 12.
+Oriental has-life-span-years lower-or-equal-to 14.
+Oriental has-temperament equal-to 'energetic'.
+Oriental has-temperament equal-to 'affectionate'.
+Oriental has-temperament equal-to 'intelligent'.
+Oriental has-temperament equal-to 'social'.
+Oriental has-temperament equal-to 'playful'.
+Oriental has-temperament equal-to 'curious'.
+Oriental has-lap.
+Oriental has-no-short-legs.
+Oriental is a hypoallergenic.
+Oriental is very-intelligent.
+Oriental is very-energetic.
+Oriental is child-friendly.
+Oriental is an outdoor-cat.
+
+Persian is natural-breed.
+Persian has-weight-kg greater-or-equal-to 4.
+Persian has-weight-kg lower-or-equal-to 6.
+Persian has-origin that is Iran.
+Persian has-life-span-years greater-or-equal-to 14.
+Persian has-life-span-years lower-or-equal-to 15.
+Persian has-temperament equal-to 'affectionate'.
+Persian has-temperament equal-to 'loyal'.
+Persian has-temperament equal-to 'sedate'.
+Persian has-temperament equal-to 'quiet'.
+Persian has-lap.
+Persian has-no-short-legs.
+Persian is not a hypoallergenic.
+Persian is not-very-intelligent.
+Persian is not-energetic.
+Persian is not-very-child-friendly.
+Persian is an outdoor-cat.
+
+Pixie-Bob is unnatural-breed.
+Pixie-Bob has-weight-kg greater-or-equal-to 4.
+Pixie-Bob has-weight-kg lower-or-equal-to 8.
+Pixie-Bob has-origin that is United-States.
+Pixie-Bob has-life-span-years greater-or-equal-to 13.
+Pixie-Bob has-life-span-years lower-or-equal-to 16.
+Pixie-Bob has-temperament equal-to 'affectionate'.
+Pixie-Bob has-temperament equal-to 'social'.
+Pixie-Bob has-temperament equal-to 'intelligent'.
+Pixie-Bob has-temperament equal-to 'loyal'.
+Pixie-Bob has-lap.
+Pixie-Bob has-no-short-legs.
+Pixie-Bob is not a hypoallergenic.
+Pixie-Bob is very-intelligent.
+Pixie-Bob is energetic.
+Pixie-Bob is child-friendly.
+Pixie-Bob is an outdoor-cat.
+
+Ragamuffin is unnatural-breed.
+Ragamuffin has-weight-kg greater-or-equal-to 4.
+Ragamuffin has-weight-kg lower-or-equal-to 9.
+Ragamuffin has-origin that is United-States.
+Ragamuffin has-life-span-years greater-or-equal-to 12.
+Ragamuffin has-life-span-years lower-or-equal-to 16.
+Ragamuffin has-temperament equal-to 'affectionate'.
+Ragamuffin has-temperament equal-to 'friendly'.
+Ragamuffin has-temperament equal-to 'gentle'.
+Ragamuffin has-temperament equal-to 'calm'.
+Ragamuffin has-lap.
+Ragamuffin has-no-short-legs.
+Ragamuffin is not a hypoallergenic.
+Ragamuffin is very-intelligent.
+Ragamuffin is not-very-energetic.
+Ragamuffin is child-friendly.
+Ragamuffin is an outdoor-cat.
+
+Ragdoll is unnatural-breed.
+Ragdoll has-weight-kg greater-or-equal-to 5.
+Ragdoll has-weight-kg lower-or-equal-to 9.
+Ragdoll has-origin that is United-States.
+Ragdoll has-life-span-years greater-or-equal-to 12.
+Ragdoll has-life-span-years lower-or-equal-to 17.
+Ragdoll has-temperament equal-to 'affectionate'.
+Ragdoll has-temperament equal-to 'friendly'.
+Ragdoll has-temperament equal-to 'gentle'.
+Ragdoll has-temperament equal-to 'quiet'.
+Ragdoll has-temperament equal-to 'easygoing'.
+Ragdoll has-lap.
+Ragdoll has-no-short-legs.
+Ragdoll is not a hypoallergenic.
+Ragdoll is not-very-intelligent.
+Ragdoll is not-very-energetic.
+Ragdoll is child-friendly.
+Ragdoll is an outdoor-cat.
+
+Russian-Blue is natural-breed.
+Russian-Blue has-weight-kg greater-or-equal-to 2.
+Russian-Blue has-weight-kg lower-or-equal-to 5.
+Russian-Blue has-origin that is Russia.
+Russian-Blue has-life-span-years greater-or-equal-to 10.
+Russian-Blue has-life-span-years lower-or-equal-to 16.
+Russian-Blue has-temperament equal-to 'active'.
+Russian-Blue has-temperament equal-to 'dependent'.
+Russian-Blue has-temperament equal-to 'easy-going'.
+Russian-Blue has-temperament equal-to 'gentle'.
+Russian-Blue has-temperament equal-to 'intelligent'.
+Russian-Blue has-temperament equal-to 'loyal'.
+Russian-Blue has-temperament equal-to 'playful'.
+Russian-Blue has-temperament equal-to 'quiet'.
+Russian-Blue has-lap.
+Russian-Blue has-no-short-legs.
+Russian-Blue is a hypoallergenic.
+Russian-Blue is not-very-intelligent.
+Russian-Blue is not-very-energetic.
+Russian-Blue is not-very-child-friendly.
+Russian-Blue is an outdoor-cat.
+
+Savannah is unnatural-breed.
+Savannah has-weight-kg greater-or-equal-to 4.
+Savannah has-weight-kg lower-or-equal-to 11.
+Savannah has-origin that is United-States.
+Savannah has-life-span-years greater-or-equal-to 17.
+Savannah has-life-span-years lower-or-equal-to 20.
+Savannah has-temperament equal-to 'curious'.
+Savannah has-temperament equal-to 'social'.
+Savannah has-temperament equal-to 'intelligent'.
+Savannah has-temperament equal-to 'loyal'.
+Savannah has-temperament equal-to 'outgoing'.
+Savannah has-temperament equal-to 'adventurous'.
+Savannah has-temperament equal-to 'affectionate'.
+Savannah has-no-short-legs.
+Savannah is not a hypoallergenic.
+Savannah is very-intelligent.
+Savannah is very-energetic.
+Savannah is child-friendly.
+Savannah is an outdoor-cat.
+
+Scottish-Fold is unnatural-breed.
+Scottish-Fold has-weight-kg greater-or-equal-to 2.
+Scottish-Fold has-weight-kg lower-or-equal-to 5.
+Scottish-Fold has-origin that is United-Kingdom.
+Scottish-Fold has-life-span-years greater-or-equal-to 11.
+Scottish-Fold has-life-span-years lower-or-equal-to 14.
+Scottish-Fold has-temperament equal-to 'affectionate'.
+Scottish-Fold has-temperament equal-to 'intelligent'.
+Scottish-Fold has-temperament equal-to 'loyal'.
+Scottish-Fold has-temperament equal-to 'playful'.
+Scottish-Fold has-temperament equal-to 'social'.
+Scottish-Fold has-temperament equal-to 'sweet'.
+Scottish-Fold has-temperament equal-to 'loving'.
+Scottish-Fold has-no-short-legs.
+Scottish-Fold is not a hypoallergenic.
+Scottish-Fold is not-very-intelligent.
+Scottish-Fold is not-very-energetic.
+Scottish-Fold is child-friendly.
+Scottish-Fold is an outdoor-cat.
+
+Selkirk-Rex is unnatural-breed.
+Selkirk-Rex has-weight-kg greater-or-equal-to 3.
+Selkirk-Rex has-weight-kg lower-or-equal-to 7.
+Selkirk-Rex has-origin that is United-States.
+Selkirk-Rex has-life-span-years greater-or-equal-to 14.
+Selkirk-Rex has-life-span-years lower-or-equal-to 15.
+Selkirk-Rex has-temperament equal-to 'active'.
+Selkirk-Rex has-temperament equal-to 'affectionate'.
+Selkirk-Rex has-temperament equal-to 'dependent'.
+Selkirk-Rex has-temperament equal-to 'gentle'.
+Selkirk-Rex has-temperament equal-to 'patient'.
+Selkirk-Rex has-temperament equal-to 'playful'.
+Selkirk-Rex has-temperament equal-to 'quiet'.
+Selkirk-Rex has-temperament equal-to 'social'.
+Selkirk-Rex has-lap.
+Selkirk-Rex has-no-short-legs.
+Selkirk-Rex is a hypoallergenic.
+Selkirk-Rex is not-very-intelligent.
+Selkirk-Rex is not-very-energetic.
+Selkirk-Rex is child-friendly.
+Selkirk-Rex is an outdoor-cat.
+
+Siamese is unnatural-breed.
+Siamese has-weight-kg greater-or-equal-to 4.
+Siamese has-weight-kg lower-or-equal-to 7.
+Siamese has-origin that is Thailand.
+Siamese has-life-span-years greater-or-equal-to 12.
+Siamese has-life-span-years lower-or-equal-to 15.
+Siamese has-temperament equal-to 'active'.
+Siamese has-temperament equal-to 'agile'.
+Siamese has-temperament equal-to 'clever'.
+Siamese has-temperament equal-to 'sociable'.
+Siamese has-temperament equal-to 'loving'.
+Siamese has-temperament equal-to 'energetic'.
+Siamese has-lap.
+Siamese has-no-short-legs.
+Siamese is a hypoallergenic.
+Siamese is very-intelligent.
+Siamese is very-energetic.
+Siamese is child-friendly.
+Siamese is an outdoor-cat.
+
+Siberian is natural-breed.
+Siberian has-weight-kg greater-or-equal-to 4.
+Siberian has-weight-kg lower-or-equal-to 7.
+Siberian has-origin that is Russia.
+Siberian has-life-span-years greater-or-equal-to 12.
+Siberian has-life-span-years lower-or-equal-to 15.
+Siberian has-temperament equal-to 'curious'.
+Siberian has-temperament equal-to 'intelligent'.
+Siberian has-temperament equal-to 'loyal'.
+Siberian has-temperament equal-to 'sweet'.
+Siberian has-temperament equal-to 'agile'.
+Siberian has-temperament equal-to 'playful'.
+Siberian has-temperament equal-to 'affectionate'.
+Siberian has-lap.
+Siberian has-no-short-legs.
+Siberian is a hypoallergenic.
+Siberian is very-intelligent.
+Siberian is very-energetic.
+Siberian is child-friendly.
+Siberian is an outdoor-cat.
+
+Singapura is unnatural-breed.
+Singapura has-weight-kg greater-or-equal-to 2.
+Singapura has-weight-kg lower-or-equal-to 4.
+Singapura has-origin that is Singapore.
+Singapura has-life-span-years greater-or-equal-to 12.
+Singapura has-life-span-years lower-or-equal-to 15.
+Singapura has-temperament equal-to 'affectionate'.
+Singapura has-temperament equal-to 'curious'.
+Singapura has-temperament equal-to 'easy-going'.
+Singapura has-temperament equal-to 'intelligent'.
+Singapura has-temperament equal-to 'interactive'.
+Singapura has-temperament equal-to 'lively'.
+Singapura has-temperament equal-to 'loyal'.
+Singapura has-lap.
+Singapura has-no-short-legs.
+Singapura is not a hypoallergenic.
+Singapura is very-intelligent.
+Singapura is very-energetic.
+Singapura is child-friendly.
+Singapura is an outdoor-cat.
+
+Snowshoe is unnatural-breed.
+Snowshoe has-weight-kg greater-or-equal-to 3.
+Snowshoe has-weight-kg lower-or-equal-to 5.
+Snowshoe has-origin that is United-States.
+Snowshoe has-life-span-years greater-or-equal-to 14.
+Snowshoe has-life-span-years lower-or-equal-to 19.
+Snowshoe has-temperament equal-to 'affectionate'.
+Snowshoe has-temperament equal-to 'social'.
+Snowshoe has-temperament equal-to 'intelligent'.
+Snowshoe has-temperament equal-to 'sweet-tempered'.
+Snowshoe has-lap.
+Snowshoe has-no-short-legs.
+Snowshoe is not a hypoallergenic.
+Snowshoe is very-intelligent.
+Snowshoe is energetic.
+Snowshoe is child-friendly.
+Snowshoe is an outdoor-cat.
+
+Somali is unnatural-breed.
+Somali has-weight-kg greater-or-equal-to 3.
+Somali has-weight-kg lower-or-equal-to 5.
+Somali has-origin that is Somalia.
+Somali has-life-span-years greater-or-equal-to 12.
+Somali has-life-span-years lower-or-equal-to 16.
+Somali has-temperament equal-to 'mischievous'.
+Somali has-temperament equal-to 'tenacious'.
+Somali has-temperament equal-to 'intelligent'.
+Somali has-temperament equal-to 'affectionate'.
+Somali has-temperament equal-to 'gentle'.
+Somali has-temperament equal-to 'interactive'.
+Somali has-temperament equal-to 'loyal'.
+Somali has-no-short-legs.
+Somali is not a hypoallergenic.
+Somali is very-intelligent.
+Somali is very-energetic.
+Somali is not-very-child-friendly.
+Somali is an outdoor-cat.
+
+Sphynx is a hairless-cat.
+Sphynx is unnatural-breed.
+Sphynx has-weight-kg greater-or-equal-to 3.
+Sphynx has-weight-kg lower-or-equal-to 5.
+Sphynx is a rare-breed.
+Sphynx has-origin that is Canada.
+Sphynx has-life-span-years greater-or-equal-to 12.
+Sphynx has-life-span-years lower-or-equal-to 14.
+Sphynx has-temperament equal-to 'loyal'.
+Sphynx has-temperament equal-to 'inquisitive'.
+Sphynx has-temperament equal-to 'friendly'.
+Sphynx has-temperament equal-to 'quiet'.
+Sphynx has-temperament equal-to 'gentle'.
+Sphynx has-lap.
+Sphynx has-no-short-legs.
+Sphynx is a hypoallergenic.
+Sphynx is very-intelligent.
+Sphynx is not-very-energetic.
+Sphynx is child-friendly.
+Sphynx is an outdoor-cat.
+
+Tonkinese is unnatural-breed.
+Tonkinese has-weight-kg greater-or-equal-to 3.
+Tonkinese has-weight-kg lower-or-equal-to 5.
+Tonkinese has-origin that is Canada.
+Tonkinese has-life-span-years greater-or-equal-to 14.
+Tonkinese has-life-span-years lower-or-equal-to 16.
+Tonkinese has-temperament equal-to 'curious'.
+Tonkinese has-temperament equal-to 'intelligent'.
+Tonkinese has-temperament equal-to 'social'.
+Tonkinese has-temperament equal-to 'lively'.
+Tonkinese has-temperament equal-to 'outgoing'.
+Tonkinese has-temperament equal-to 'playful'.
+Tonkinese has-temperament equal-to 'affectionate'.
+Tonkinese has-lap.
+Tonkinese has-no-short-legs.
+Tonkinese is not a hypoallergenic.
+Tonkinese is very-intelligent.
+Tonkinese is very-energetic.
+Tonkinese is child-friendly.
+Tonkinese is an outdoor-cat.
+
+Toyger is unnatural-breed.
+Toyger has-weight-kg greater-or-equal-to 3.
+Toyger has-weight-kg lower-or-equal-to 7.
+Toyger has-origin that is United-States.
+Toyger has-life-span-years greater-or-equal-to 12.
+Toyger has-life-span-years lower-or-equal-to 15.
+Toyger has-temperament equal-to 'playful'.
+Toyger has-temperament equal-to 'social'.
+Toyger has-temperament equal-to 'intelligent'.
+Toyger has-lap.
+Toyger has-no-short-legs.
+Toyger is not a hypoallergenic.
+Toyger is very-intelligent.
+Toyger is very-energetic.
+Toyger is child-friendly.
+Toyger is an outdoor-cat.
+
+Turkish-Angora is natural-breed.
+Turkish-Angora has-weight-kg greater-or-equal-to 2.
+Turkish-Angora has-weight-kg lower-or-equal-to 5.
+Turkish-Angora has-origin that is Turkey.
+Turkish-Angora has-life-span-years greater-or-equal-to 15.
+Turkish-Angora has-life-span-years lower-or-equal-to 18.
+Turkish-Angora has-temperament equal-to 'affectionate'.
+Turkish-Angora has-temperament equal-to 'agile'.
+Turkish-Angora has-temperament equal-to 'clever'.
+Turkish-Angora has-temperament equal-to 'gentle'.
+Turkish-Angora has-temperament equal-to 'intelligent'.
+Turkish-Angora has-temperament equal-to 'playful'.
+Turkish-Angora has-temperament equal-to 'social'.
+Turkish-Angora has-no-short-legs.
+Turkish-Angora is not a hypoallergenic.
+Turkish-Angora is very-intelligent.
+Turkish-Angora is very-energetic.
+Turkish-Angora is child-friendly.
+Turkish-Angora is an outdoor-cat.
+
+Turkish-Van is natural-breed.
+Turkish-Van has-weight-kg greater-or-equal-to 3.
+Turkish-Van has-weight-kg lower-or-equal-to 9.
+Turkish-Van has-origin that is Turkey.
+Turkish-Van has-life-span-years greater-or-equal-to 12.
+Turkish-Van has-life-span-years lower-or-equal-to 17.
+Turkish-Van has-temperament equal-to 'agile'.
+Turkish-Van has-temperament equal-to 'intelligent'.
+Turkish-Van has-temperament equal-to 'loyal'.
+Turkish-Van has-temperament equal-to 'playful'.
+Turkish-Van has-temperament equal-to 'energetic'.
+Turkish-Van has-no-short-legs.
+Turkish-Van is not a hypoallergenic.
+Turkish-Van is very-intelligent.
+Turkish-Van is very-energetic.
+Turkish-Van is child-friendly.
+Turkish-Van is an outdoor-cat.
+
+York-Chocolate is unnatural-breed.
+York-Chocolate has-weight-kg greater-or-equal-to 5.
+York-Chocolate has-weight-kg lower-or-equal-to 8.
+York-Chocolate has-origin that is United-States.
+York-Chocolate has-life-span-years greater-or-equal-to 13.
+York-Chocolate has-life-span-years lower-or-equal-to 15.
+York-Chocolate has-temperament equal-to 'playful'.
+York-Chocolate has-temperament equal-to 'social'.
+York-Chocolate has-temperament equal-to 'intelligent'.
+York-Chocolate has-temperament equal-to 'curious'.
+York-Chocolate has-temperament equal-to 'friendly'.
+York-Chocolate has-lap.
+York-Chocolate has-no-short-legs.
+York-Chocolate is not a hypoallergenic.
+York-Chocolate is very-intelligent.
+York-Chocolate is very-energetic.
+York-Chocolate is child-friendly.
+York-Chocolate is an outdoor-cat.
+
+Part-3: 'Przykładowe koty'.
+Bonifacy is a cat and has-birthday equal-to 2025-02-24.
+Bonifacy has-breed that is California-Spangled.
+Bonifacy likes-food that is Beef.
+Bonifacy sleeps-in Box.
+Bonifacy has-favorite-toy that is Ball.
+Bonifacy wears Blanket.
+
+Zuzia is a cat and has-birthday equal-to 2021-02-27.
+Zuzia has-breed that is Bambino.
+Zuzia likes-food that is Salmon.
+Zuzia sleeps-in Windowsill.
+Zuzia has-hobby that is climbing-the-wardrobe.
+Zuzia fears Rustle.
+
+Adelka is a cat and has-birthday equal-to 2012-09-26.
+Adelka has-breed that is Cheetoh.
+Adelka likes-food that is Tuna.
+Adelka sleeps-in Wardrobe.
+Adelka fears Water.
+
+Rudy is a cat and has-birthday equal-to 2017-11-04.
+Rudy has-breed that is Cymric.
+Rudy likes-food that is Tuna.
+Rudy sleeps-in Windowsill.
+Rudy has-favorite-toy that is Laser.
+Rudy has-hobby that is sleeping-in-the-sink.
+Rudy wears Bandana.
+Rudy fears Water.
+
+Kropka is a cat and has-birthday equal-to 2022-03-29.
+Kropka has-breed that is Laperm.
+Kropka likes-food that is Chicken.
+Kropka sleeps-in Hammock.
+Kropka has-favorite-toy that is Ball.
+Kropka has-hobby that is climbing-the-wardrobe.
+
+Elton is a cat and has-birthday equal-to 2015-08-18.
+Elton has-breed that is Exotic-Shorthair.
+Elton likes-food that is Sardines.
+Elton sleeps-in Hammock.
+
+Kajtula is a cat and has-birthday equal-to 2014-01-28.
+Kajtula has-breed that is Bombay.
+Kajtula likes-food that is Turkey.
+Kajtula sleeps-in Wardrobe.
+Kajtula has-hobby that is climbing-the-wardrobe.
+Kajtula wears Blanket.
+
+Urwis is a cat and has-birthday equal-to 2013-12-09.
+Urwis has-breed that is Norwegian-Forest-Cat.
+Urwis likes-food that is Chicken.
+Urwis sleeps-in Box.
+Urwis has-favorite-toy that is Ball.
+Urwis has-hobby that is hunting-shadows.
+
+Mania is a cat and has-birthday equal-to 2023-02-16.
+Mania has-breed that is Devon-Rex.
+Mania likes-food that is Chicken.
+Mania sleeps-in Sink.
+Mania has-favorite-toy that is Ball.
+Mania has-hobby that is sleeping-in-the-sink.
+Mania fears Water.
+
+Gacek is a cat and has-birthday equal-to 2025-09-27.
+Gacek has-breed that is Havana-Brown.
+Gacek likes-food that is Sardines.
+Gacek sleeps-in Sink.
+Gacek has-favorite-toy that is Ball.
+Gacek wears Blanket.
