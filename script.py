@@ -65,7 +65,8 @@ def generate_random_individuals(breeds, count=10):
         used_names.add(name)
 
         lines = [
-            f"{name} is a cat and has-birthday equal-to {generate_random_date()}.",
+            f"{name} is a cat.",
+             f"{name} has-birthday equal-to {generate_random_date()}.",
             f"{name} has-breed that is {breed}.",
             f"{name} likes-food that is {random.choice(FOODS)}.",
             f"{name} sleeps-in {random.choice(SLEEP_PLACES)}."

@@ -1319,72 +1319,76 @@ York-Chocolate is child-friendly.
 York-Chocolate is an outdoor-cat.
 
 Part-3: 'Przykładowe koty'.
-Bonifacy is a cat and has-birthday equal-to 2025-02-24.
-Bonifacy has-breed that is California-Spangled.
-Bonifacy likes-food that is Beef.
-Bonifacy sleeps-in Box.
-Bonifacy has-favorite-toy that is Ball.
-Bonifacy wears Blanket.
-
-Zuzia is a cat and has-birthday equal-to 2021-02-27.
-Zuzia has-breed that is Bambino.
-Zuzia likes-food that is Salmon.
-Zuzia sleeps-in Windowsill.
-Zuzia has-hobby that is climbing-the-wardrobe.
-Zuzia fears Rustle.
-
-Adelka is a cat and has-birthday equal-to 2012-09-26.
-Adelka has-breed that is Cheetoh.
+Adelka is a cat.
+Adelka has-birthday equal-to 2023-01-07.
+Adelka has-breed that is Oriental.
 Adelka likes-food that is Tuna.
-Adelka sleeps-in Wardrobe.
-Adelka fears Water.
+Adelka sleeps-in Windowsill.
+Adelka has-favorite-toy that is Laser.
+Adelka enjoys sleeping-in-the-sink.
 
-Rudy is a cat and has-birthday equal-to 2017-11-04.
-Rudy has-breed that is Cymric.
-Rudy likes-food that is Tuna.
-Rudy sleeps-in Windowsill.
-Rudy has-favorite-toy that is Laser.
-Rudy has-hobby that is sleeping-in-the-sink.
-Rudy wears Bandana.
-Rudy fears Water.
-
-Kropka is a cat and has-birthday equal-to 2022-03-29.
-Kropka has-breed that is Laperm.
-Kropka likes-food that is Chicken.
-Kropka sleeps-in Hammock.
-Kropka has-favorite-toy that is Ball.
-Kropka has-hobby that is climbing-the-wardrobe.
-
-Elton is a cat and has-birthday equal-to 2015-08-18.
-Elton has-breed that is Exotic-Shorthair.
-Elton likes-food that is Sardines.
-Elton sleeps-in Hammock.
-
-Kajtula is a cat and has-birthday equal-to 2014-01-28.
-Kajtula has-breed that is Bombay.
-Kajtula likes-food that is Turkey.
-Kajtula sleeps-in Wardrobe.
-Kajtula has-hobby that is climbing-the-wardrobe.
-Kajtula wears Blanket.
-
-Urwis is a cat and has-birthday equal-to 2013-12-09.
-Urwis has-breed that is Norwegian-Forest-Cat.
-Urwis likes-food that is Chicken.
-Urwis sleeps-in Box.
-Urwis has-favorite-toy that is Ball.
-Urwis has-hobby that is hunting-shadows.
-
-Mania is a cat and has-birthday equal-to 2023-02-16.
-Mania has-breed that is Devon-Rex.
-Mania likes-food that is Chicken.
-Mania sleeps-in Sink.
-Mania has-favorite-toy that is Ball.
-Mania has-hobby that is sleeping-in-the-sink.
-Mania fears Water.
-
-Gacek is a cat and has-birthday equal-to 2025-09-27.
-Gacek has-breed that is Havana-Brown.
-Gacek likes-food that is Sardines.
+Gacek is a cat.
+Gacek has-birthday equal-to 2016-12-28.
+Gacek has-breed that is Russian-Blue.
+Gacek likes-food that is Salmon.
 Gacek sleeps-in Sink.
-Gacek has-favorite-toy that is Ball.
-Gacek wears Blanket.
+Gacek fears Rustle.
+
+Mruczek is a cat.
+Mruczek has-birthday equal-to 2019-06-29.
+Mruczek has-breed that is Singapura.
+Mruczek likes-food that is Beef.
+Mruczek sleeps-in Box.
+Mruczek has-hobby that is hunting-shadows.
+
+Zgredek is a cat.
+Zgredek has-birthday equal-to 2017-03-07.
+Zgredek has-breed that is Laperm.
+Zgredek likes-food that is Chicken.
+Zgredek sleeps-in Box.
+
+Klakier is a cat.
+Klakier has-birthday equal-to 2011-07-14.
+Klakier has-breed that is Himalayan.
+Klakier likes-food that is Sardines.
+Klakier sleeps-in Wardrobe.
+Klakier has-favorite-toy that is Laser.
+Klakier wears Bandana.
+Klakier fears Doorbell.
+
+Ozi is a cat.
+Ozi has-birthday equal-to 2025-12-14.
+Ozi has-breed that is Sphynx.
+Ozi likes-food that is Salmon.
+Ozi sleeps-in Box.
+Ozi has-hobby that is sleeping-in-the-sink.
+Ozi wears Collar.
+
+Rudy is a cat.
+Rudy has-birthday equal-to 2010-06-09.
+Rudy has-breed that is Turkish-Van.
+Rudy likes-food that is Chicken.
+Rudy sleeps-in Windowsill.
+
+Bonifacy is a cat.
+Bonifacy has-birthday equal-to 2024-09-27.
+Bonifacy has-breed that is American-Bobtail.
+Bonifacy likes-food that is Sardines.
+Bonifacy sleeps-in Wardrobe.
+Bonifacy has-favorite-toy that is Mouse.
+
+Elton is a cat.
+Elton has-birthday equal-to 2015-08-22.
+Elton has-breed that is Balinese.
+Elton likes-food that is Tuna.
+Elton sleeps-in Sink.
+Elton has-hobby that is hunting-shadows.
+Elton wears Sweater.
+
+Zuzia is a cat.
+Zuzia has-birthday equal-to 2017-07-21.
+Zuzia has-breed that is Cymric.
+Zuzia likes-food that is Beef.
+Zuzia sleeps-in Sink.
+Zuzia has-hobby that is hunting-shadows.
+Zuzia fears Dust.
