@@ -8,9 +8,7 @@ Ontologia zawiera informacje na temat:
 
 * ras kotów domowych (pochodzenie, długość życia, temperament, inteligencja, waga),
 * indywidualnych kotów (data urodzenia, ulubiony pokarm, miejsce do spania, zabawki, hobby, emocje),
-* relacji między kotami, rasami i środowiskiem,
-* semantycznej reprezentacji danych w formacie Controlled English (ACE),
-* graficznych reprezentacji struktury za pomocą Fluent Editora i biblioteki CogniPy.
+* relacji między kotami, rasami i środowiskiem.
 
 ## Zawartość projektu
 
